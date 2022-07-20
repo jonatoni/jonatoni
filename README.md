@@ -29,8 +29,8 @@ I help build and foster developer communities, and I deeply care about Free and 
 * co-organizer of [Machine Learning Prague](https://mlprague.com/), responsible for the communities and partnerships. #MLPrague 🙌 
   
 ### 👩‍💻 Previously:
-* Data and Developers Community Manager at [GoodData](https://www.gooddata.com/developers/) 🥑 #DevRel #CMgr
-* DevRel at [Kiwi.com](https://code.kiwi.com/) 🚀
+* Data and Developers Community Manager at [GoodData](https://www.gooddata.com/developers/) 📉
+* DevRel at [Kiwi.com](https://code.kiwi.com/) 🚀 🌎 ✈️
 * Marketing Specialist at [Collabora Productivity](https://www.collaboraoffice.com/) 📊 
 
 ### 💬 Ask me anything:
