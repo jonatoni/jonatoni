@@ -36,7 +36,7 @@ I help build and foster developer communities, and I deeply care about Free and 
 * [Rails Girls Summer of Code Intern](https://www.youtube.com/watch?v=OpMtsE_MICs) at Nextcloud ☁️ 
 
 ### 💬 Ask me anything
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logo=appveyor)](https://t.me/jonatoni)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jonatoni)
 
 ### 💡 Knowledge area
 * Community building/engagement/outreach
