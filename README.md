@@ -29,7 +29,7 @@ I help build and foster developer communities, and I deeply care about Free and 
 * part of [Open Source Diversity](https://opensourcediversity.org/), which aims to have more diversity & inclusion in free & open source software communities. 😊 🌼
   
 ### 👩‍💻 Previously:
-* Community Lead at [Supernova](https://www.supernova.io/) as a Community Lead. 🥑
+* Community Lead at [Supernova](https://www.supernova.io/) 🥑
 * Data and Developers Community Manager at [GoodData](https://www.gooddata.com/developers/) 📉
 * DevRel at [Kiwi.com](https://code.kiwi.com/) 🚀 🌎 ✈️
 * Marketing Specialist at [Collabora Productivity](https://www.collaboraoffice.com/) 📊 
