@@ -48,8 +48,9 @@ I help build and foster developer communities, and I deeply care about Free and 
 ### 🌎 Find me around the web
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonatoni)
 [![](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge)](https://jona.azizaj.com)
-[![](https://img.shields.io/badge/Keybase-ff6f21?style=for-the-badge&logo=keybase)](https://keybase.io/jonatoni)
-[![](https://img.shields.io/badge/Fedora%20Wiki-337acc?style=for-the-badge)](https://fedoraproject.org/wiki/User:Jonatoni)
+[![](https://img.shields.io/badge/Keybase-ff6f21?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/jonatoni)
+[![](https://img.shields.io/badge/Fedora%20Wiki-337acc?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/wiki/User:Jonatoni)
+
 
 ### 😄 Pronouns: she/her
 
