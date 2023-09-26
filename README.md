@@ -46,6 +46,7 @@ I help build and foster developer communities, and I deeply care about Free and 
 * Ambassadors program
 
 ### 🌎 Find me around the web
+[![](https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jonatoni)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonatoni)
 [![](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge)](https://jona.azizaj.com)
 [![](https://img.shields.io/badge/Keybase-ff6f21?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/jonatoni)
