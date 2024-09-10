@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 I help build and foster developer communities, and I deeply care about Free and Open Source Software. :octocat:
 
 ### 👩‍💻 I’m currently:
-* searching for a new Community/DevRel position 🥑 #CMgr #DevRel
+* working at [CrowdSec](https://www.crowdsec.net/) as an Open Source [Community Manager](https://www.crowdsec.net/community) 🥑 #CMgr #DevRel
 * organizer of [Machine Learning Prague](https://mlprague.com/), responsible for the conference partnerships. #MLPrague 🙌
-* part of the [Fedora Diversity, Equity, & Inclusion team](https://docs.fedoraproject.org/en-US/diversity-inclusion/) and organizer of Fedora Mentor Summit. 🐧 💙
+* part of the [Fedora Diversity, Equity, & Inclusion team](https://docs.fedoraproject.org/en-US/diversity-inclusion/), [DEI advisor](https://docs.fedoraproject.org/en-US/dei/roles/council-advisor/) and organizer of Fedora Mentor Summit. 🐧 💙
 * part of the [Code of Conduct Committee](https://www.documentfoundation.org/code-of-conduct/) at The Document Foundation. 💚 
 * part of [Open Source Diversity](https://opensourcediversity.org/), which aims to have more diversity & inclusion in free & open source software communities. 😊 🌼
+* part of [Sustain DEI WG](https://sustainoss.org/working-groups/diversity-equity-inclusion/) - currently working on the [DEI handbook](https://sustainoss.org/dei-handbook/intro.html)
   
 ### 👩‍💻 Previously:
 * Community Lead at [Supernova](https://www.supernova.io/) 🥑
